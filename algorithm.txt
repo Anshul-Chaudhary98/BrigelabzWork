@@ -1,0 +1,17 @@
+#Question 1 
+#To print the frequency
+ALGORITHM
+Step 1: Created an array with the given elements.
+Step 2: Now under for loop, did if elif else and counted the duplicates elements and stored them to a variable.
+Step 3: Printed the elements along with there number of occurence (frequency).
+
+
+#Question 2
+#Flip Coin Simulation Problem
+ALGORITHM
+Step1: Declared a Dictionary as CoinFlip.
+Step2: Created a Function to find Head and Tail Combination.
+Step2(a): Under this Function generated a Random Number so as to check Head and Tail.
+Step3: Created another Function so as to find Percentage and to find Maximum Head or Tail Winning Combinations.
+Step4: Taken Input from User to flip the coin and to choose Singlet or Doublet or Triplet. 
+Step5: Now Printed the results based on the user Inputs.
